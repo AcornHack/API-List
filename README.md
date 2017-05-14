@@ -7,7 +7,7 @@ For information on contributing to this project, please see the [contributing gu
 Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
 
 ## Index
-
+* [AcornHackAI](#acorn)
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
@@ -46,6 +46,16 @@ Please note a passing build status indicates all listed APIs are available since
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
+
+### AcornHackAI
+
+| API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| API.AI | Natural Language Processing | `apikey` | Yes | [Go!](https://api.ai/) |
+| Clarifai | Computer Vision | `OAuth` | Yes | [Go!](https://developer.clarifai.com/) |
+| Cleverbot | Web chat bot | `apikey` | Yes | [Go!](https://www.cleverbot.com/api/) |
+| Unplugg | Forecasting API for timeseries data | `apikey` | Yes | [Go!](https://unplu.gg/test_api.html) |
+| Wit.ai | Natural Language Processing | `OAuth` | Yes | [Go!](https://wit.ai/) |
 
 ### Animals
 
