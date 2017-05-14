@@ -56,6 +56,10 @@ Please note a passing build status indicates all listed APIs are available since
 | Cleverbot | Web chat bot | `apikey` | Yes | [Go!](https://www.cleverbot.com/api/) |
 | Unplugg | Forecasting API for timeseries data | `apikey` | Yes | [Go!](https://unplu.gg/test_api.html) |
 | Wit.ai | Natural Language Processing | `OAuth` | Yes | [Go!](https://wit.ai/) |
+| Microsoft Cognitive Services | Natural Language Processing, Computer Vision(incl. emotions), speech, knowledge, search | `apikey` | Yes | [Go!](https://azure.microsoft.com/en-us/services/cognitive-services/) |
+| Orbit.ai | Language and conversations | `apikey` | No | [Go!](https://orbit.ai/documentation/) |
+| CrowdEmotion | Emotion | `apikey` | ? | [Go!](https://developers.crowdemotion.co.uk/api/) |
+| Microsoft Bot Framework | Bots | `apikey` | Yes | [Go!](https://dev.botframework.com/) |
 
 ### Animals
 
