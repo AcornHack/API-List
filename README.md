@@ -60,6 +60,7 @@ Please note a passing build status indicates all listed APIs are available since
 | Orbit.ai | Language and conversations | `apikey` | No | [Go!](https://orbit.ai/documentation/) |
 | CrowdEmotion | Emotion | `apikey` | ? | [Go!](https://developers.crowdemotion.co.uk/api/) |
 | Microsoft Bot Framework | Bots | `apikey` | Yes | [Go!](https://dev.botframework.com/) |
+| AWS AI | Bots, Image recognition, machine learning | | Yes | [Go!](https://aws.amazon.com/amazon-ai/) |
 
 ### Animals
 
