@@ -286,7 +286,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | adresse.data.gouv.fr | Address database of France. geocoding and reverse. | No | Yes | [Go!](https://adresse.data.gouv.fr) |
-| Bing Maps | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | [Go!](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) |
+| Bing Maps | Create/customize digital maps based on Bing Maps data | `apiKey` | Yes | [Go!](https://www.microsoft.com/maps/) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | [Go!](https://geocode.xyz/) |
 | GeoNames | Place names and other geographical data | No | No | [Go!](http://www.geonames.org/export/web-services.html) |
 | GéoApi | French geographical data | No | Yes | [Go!](https://api.gouv.fr/api/geoapi.html) |
@@ -333,6 +333,8 @@ Please note a passing build status indicates all listed APIs are available since
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Newton | Symbolic and Arithmetic Math Calculator | No | Yes | [Go!](https://newton.now.sh/) |
+| Numbers API | Facts about numbers | No | No | [Go!](http://numbersapi.com) |
+
 
 ### Music
 
@@ -426,7 +428,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Discord | Make bots for Discord, integrate Discord onto an external platform | `OAuth` | Yes | [Go!](https://discordapp.com/developers/docs/intro) |
-| DonReach Social Count | Get the social share count of a URL from every major social network | No | Yes | [Go!](https://donreach.com/social-share-count) |
+| DonReach Social Count | Get the social share count of a URL from every major social network | No | Yes | [Go!](https://donreach.com/social-share-count/) |
 | Facebook | Facebook Login, Share on FB, Social Plugins, Analytics and more | `OAuth` | Yes | [Go!](https://developers.facebook.com/) |
 | Foursquare | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth` | Yes | [Go!](https://developer.foursquare.com/) |
 | Fuck Off as a Service | Asks someone to fuck off | No | Yes | [Go!](https://www.foaas.com) |
@@ -434,6 +436,7 @@ Please note a passing build status indicates all listed APIs are available since
 | HackerNews | Social news for CS and entrepreneurship | No | Yes | [Go!](https://github.com/HackerNews/API) |
 | Instagram | Instagram Login, Share on Instagram, Social Plugins and more | `OAuth` | Yes | [Go!](https://www.instagram.com/developer/) |
 | LinkedIn | The foundation of all digital integrations with LinkedIn | `OAuth` | Yes | [Go!](https://developer.linkedin.com/docs/rest-api) |
+| Meetup.com | Data about Meetups from Meetup.com | `apiKey` | Yes | [Go!](https://www.meetup.com/meetup_api/) |
 | Telegram MTProto | Read and write Telegram data | `OAuth` | Yes | [Go!](https://core.telegram.org/api#getting-started) |
 | Telegram bot | Simplified HTTP version of the MTProto API for bots | `OAuth` | Yes | [Go!](https://core.telegram.org/bots/api) |
 | Pinterest | The world's catalog of ideas | `OAuth` | Yes | [Go!](https://developers.pinterest.com/) |
