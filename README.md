@@ -51,7 +51,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| API.AI | Natural Language Processing | `apikey` | Yes | [Go!](https://api.ai/) |
+| DialogFlow | Natural Language Processing | `apikey` | Yes | [Go!](https://dialogflow.com/) |
 | Clarifai | Computer Vision | `OAuth` | Yes | [Go!](https://developer.clarifai.com/) |
 | Cleverbot | Web chat bot | `apikey` | Yes | [Go!](https://www.cleverbot.com/api/) |
 | Unplugg | Forecasting API for timeseries data | `apikey` | Yes | [Go!](https://unplu.gg/test_api.html) |
